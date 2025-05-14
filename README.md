@@ -26,7 +26,7 @@
 CONST DAVI = {
   backend: ["Java", "Python", "C", "C++"],
   frontend: ["HTML", "Javascript", "CSS", "Boostrap"],
-  database: ["Postgresql", "mySQL"],
+  database: ["Postgresql", "mySQL","MongoDb"],
   frameworks: ["Spring"],
   architecture: ["Microservices", "SOLID"],
   util: ["Git", "Linux"]
