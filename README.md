@@ -29,7 +29,7 @@ CONST DAVI = {
   database: ["Postgresql", "mySQL","MongoDb"],
   frameworks: ["Spring"],
   architecture: ["Microservices", "SOLID"],
-  util: ["Git", "Linux"]
+  util: ["Git", "Linux", "Docker"]
   challenge: "Learn and improve my programming skills."
 }
 ```
