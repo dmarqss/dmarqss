@@ -23,14 +23,24 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```ruby
-CONST DAVI = {
-  backend: ["Java", "Python", "C", "C++"],
-  frontend: ["HTML", "Javascript", "CSS", "Boostrap"],
-  database: ["Postgresql", "mySQL","MongoDb"],
-  frameworks: ["Spring"],
-  architecture: ["Microservices", "SOLID"],
-  util: ["Git", "Linux", "Docker"]
-  challenge: "Learn and improve my programming skills."
-}
+const DaviMarques = {
+  role: "Backend Developer",
+
+  stack: {
+    backend: ["Java", "Spring Boot", "Spring Security", "JWT", "REST APIs"],
+    messaging: ["RabbitMQ"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    testing: ["JUnit", "Integration Tests", "Cypress"],
+    architecture: ["Microservices (basic)", "Layered Architecture", "SOLID", "Clean Code"],
+    devOps: ["Docker", "AWS (basic)"],
+    frontend_basic: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    tools: ["Git", "GitHub", "Linux", "Swagger"],
+    methodologies: ["Scrum", "Agile", "SDLC"]
+  },
+
+  focus: "Backend architecture and distributed systems",
+  mindset: "Continuous improvement"
+};
+
 ```
 ---
