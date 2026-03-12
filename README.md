@@ -31,7 +31,7 @@ const DaviHuffenbaecher = {
     messaging: ["RabbitMQ"],
     databases: ["PostgreSQL", "MySQL", "MongoDB"],
     testing: ["JUnit", "Integration Tests", "Cypress"],
-    architecture: ["Microservices (basic)", "Layered Architecture", "SOLID", "Clean Code"],
+    architecture: ["Microservices", "Layered Architecture", "SOLID", "Clean Code"],
     devOps: ["Docker", "AWS (basic)"],
     frontend_basic: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     tools: ["Git", "GitHub", "Linux", "Swagger"],
